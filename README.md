@@ -46,6 +46,8 @@ Users can subscribe by visiting the following page:
 
 ```
 
+---
+
 ## 💬 Contact / 联系方式
 
 Join our Telegram group for questions, updates, or help.  
