@@ -43,3 +43,10 @@ Users can subscribe by visiting the following page:
   "i2": "source_id",
   "t1": "news_text"
 }
+
+## 💬 Contact / 联系方式
+
+Join our Telegram group for questions, updates, or help.  
+如有任何问题、需要帮助或想了解最新动态，请加入我们的 Telegram 群组：  
+👉 [https://t.me/+mk9SYszWccI5MmQ1](https://t.me/+mk9SYszWccI5MmQ1)
+
